@@ -1,0 +1,38 @@
+env:
+  global:
+    - secure: LWfhCa866KWCgQTDr8671yb5KCo5xttShvlT0x2UVntXy6rKSPOpkZxR6tTUdQhvMkaH1XUZscwwLVeV79o3TtgM99RYd9LpN5Wq0jCJ4h4wcMLUebrmlQh1o3gNQS+QBGz494qYVUyVGNdsA/fzuY374city+bBvnUFg6N7v6NdhWKcIL5i8fpA7wZ3x0mQDOOy9hoKlwJXBVUcg8IO3q6bEeSvwrlmVDuaEKuUwD50F0GQMaH5u8WRhZd2RnTd+ASI+blVM/MT3xabGt46KGxUGE8S9L37rGHhRdU2wGkRVpGLR10SFIpWGc/x1Q+xCD/QNvFBBTLKudZqCFl11WAFH+K+qSyKGYbobIOG+nHkfD0QdnMqAAqk7QkOJDIbPifOAMchO8AVLqeHPWYpu+5R5RqWTHXj1u7EvSazFx04tzD841Z5c9rwktfexru5iEWOBxde7V42Jrz1d/wLrNWqUszOJY0GJo1f2BRlr9TRQCa8NHcSatTCUlQtevh89oXs98J3Ef7JsdGN/R6LYENvB9svU19cbt7hpww7QqIPGKdWnAdW7lPABE9AAwygoQVQ9wNLNQt0IA5zEW+yk+ZEAEWklvtE1g+VE1CRFYLhj2wKM85KEI6lLaDFoClngapw1VXLQgsD8g0iW+mH/7Hi7CF9wdnTYBOfh4lRs8w=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Top-Attacking-IP-Addresses-Against-Wordpress-Sites
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+before_install:
+  - sudo apt-get -y install python3-pip
+  - sudo apt-get -y install dos2unix
+  - pip3 install colorama
+
+script:
+  - export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
+  - export GH_TOKEN=${GH_TOKEN}
+  - export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
+  - export GIT_BRANCH=${GIT_BRANCH}
+  - export GIT_EMAIL=${GIT_EMAIL}
+  - export GIT_NAME=${GIT_NAME}
+  - python3 ./update.py
+
+notifications:
+  email: false
