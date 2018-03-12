@@ -1,3 +1,5 @@
 {
-    "/home/travis/build/Ultimate-Hosts-Blacklist/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list": {}
+    "/home/travis/build/Ultimate-Hosts-Blacklist/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list": {
+        "to_test": []
+    }
 }
