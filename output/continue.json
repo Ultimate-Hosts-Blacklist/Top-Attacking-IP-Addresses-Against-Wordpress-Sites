@@ -2,7 +2,7 @@
     "/home/travis/build/Ultimate-Hosts-Blacklist/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list": {
         "down": 0,
         "invalid": 0,
-        "tested": 148,
-        "up": 148
+        "tested": 0,
+        "up": 0
     }
 }
