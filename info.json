@@ -8,5 +8,5 @@
     "list_name": "domains.list",
     "name": "Domain Status Testing for Ultimate Hosts Blacklist",
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
-    "stable": "0"
+    "stable": "1"
 }
