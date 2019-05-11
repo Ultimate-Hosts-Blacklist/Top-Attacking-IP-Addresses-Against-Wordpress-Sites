@@ -1,10 +1,7 @@
 {
-    "arguments": [],
-    "clean_original": "1",
     "currently_under_test": "0",
-    "days_until_next_test": "2",
-    "last_test": "1557442355",
+    "days_until_next_test": 2,
+    "last_test": 1557442355,
     "name": "Top-Attacking-IP-Addresses-Against-Wordpress-Sites",
-    "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
-    "stable": "1"
+    "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt"
 }
