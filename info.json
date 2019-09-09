@@ -1,21 +1,21 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Sep  7 23:29:42 2019",
-    "end_epoch": 1567898982.48518,
+    "end_datetime": "Mon Sep  9 10:58:44 2019",
+    "end_epoch": 1568026724.153336,
     "name": "Top-Attacking-IP-Addresses-Against-Wordpress-Sites",
     "previous_stats": {
         "builds": 1,
         "counter": {
-            "down": 68,
+            "down": 69,
             "invalid": 0,
             "tested": 148,
-            "up": 80
+            "up": 79
         },
         "volatile.list": 80,
         "whitelisted.list": 80
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
-    "start_datetime": "Sat Sep  7 23:28:53 2019",
-    "start_epoch": 1567898933.338021
+    "start_datetime": "Mon Sep  9 10:57:55 2019",
+    "start_epoch": 1568026675.409875
 }
