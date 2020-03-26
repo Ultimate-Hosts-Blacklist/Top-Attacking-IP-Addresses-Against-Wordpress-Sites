@@ -9,7 +9,7 @@
     "previous_stats": {
         "builds": 1,
         "clean.list": 0,
-        "clean_list": 72,
+        "clean_list": 73,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -20,11 +20,11 @@
             "valid": 0
         },
         "domains.list": 148,
-        "ip.list": 73,
-        "volatile.list": 72,
-        "whitelisted.list": 72
+        "ip.list": 75,
+        "volatile.list": 73,
+        "whitelisted.list": 73
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
-    "start_datetime": "2020-03-24T11:14:05.065498",
-    "start_epoch": 1585048445.065498
+    "start_datetime": "2020-03-26T02:02:15.065045",
+    "start_epoch": 1585188135.065045
 }
