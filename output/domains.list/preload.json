@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
     "hash": "c2b917e720b11d7ad6c573dab90f758c820fc92b5bde53c6b71b0be7",
     "line_number": 149,
-    "output_dir": "/home/runner/work/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/output/domains.list",
+    "output_dir": "/var/jenkins/workspace/s-Against-Wordpress-Sites_master/output/domains.list",
     "previous_hash": "c2b917e720b11d7ad6c573dab90f758c820fc92b5bde53c6b71b0be7",
-    "rel_source": "domains.list",
-    "session_id": "fa5efdf32bd1351cb0e55ccd",
-    "source": "/home/runner/work/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list",
-    "subject": "/home/runner/work/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/domains.list",
+    "session_id": "f4593d778c45708c69ce6f88",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
