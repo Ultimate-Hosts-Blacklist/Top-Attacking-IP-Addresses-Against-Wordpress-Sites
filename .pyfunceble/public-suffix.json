@@ -580,6 +580,7 @@
         "mg.gov.br",
         "mg.leg.br",
         "mil.br",
+        "mil.cn",
         "morena.br",
         "mp.br",
         "ms.gov.br",
@@ -1823,6 +1824,7 @@
     ],
     "gi": [
         "com.gi",
+        "edu.gi",
         "gov.gi",
         "ltd.gi",
         "mod.gi",
@@ -1910,7 +1912,6 @@
     "hk": [
         "blogspot.hk",
         "com.hk",
-        "edu.gi",
         "edu.hk",
         "gov.hk",
         "idv.hk",
