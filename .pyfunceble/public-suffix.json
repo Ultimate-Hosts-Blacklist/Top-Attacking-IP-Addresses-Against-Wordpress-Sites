@@ -1288,6 +1288,7 @@
         "quipelements.com",
         "r.appspot.com",
         "rackmaze.com",
+        "radio.fm",
         "rag-cloud-ch.hosteur.com",
         "rag-cloud.hosteur.com",
         "remotewd.com",
@@ -1551,6 +1552,7 @@
         "my-wan.de",
         "myhome-server.de",
         "myspreadshop.de",
+        "pages.it.hs-heilbronn.de",
         "schulserver.de",
         "spdns.de",
         "square7.de",
@@ -1768,8 +1770,7 @@
         "com.fm",
         "edu.fm",
         "net.fm",
-        "org.fm",
-        "radio.fm"
+        "org.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -2062,6 +2063,7 @@
         "net.id",
         "or.id",
         "ponpes.id",
+        "rss.my.id",
         "sch.id",
         "wblog.id",
         "web.id"
@@ -2081,7 +2083,8 @@
         "muni.il",
         "net.il",
         "org.il",
-        "ravpage.co.il"
+        "ravpage.co.il",
+        "tabitorder.co.il"
     ],
     "im": [
         "ac.im",
@@ -5671,6 +5674,7 @@
         "from-la.net",
         "from-ny.net",
         "gb.net",
+        "gets-it.net",
         "global.prod.fastly.net",
         "global.ssl.fastly.net",
         "ham-radio-op.net",
@@ -6787,7 +6791,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "gets-it.net",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"
@@ -7698,6 +7701,9 @@
         "org.so",
         "sch.so"
     ],
+    "solutions": [
+        "diher.solutions"
+    ],
     "space": [
         "myfast.space",
         "uber.space",
@@ -8100,6 +8106,7 @@
     "uk": [
         "ac.uk",
         "adimo.co.uk",
+        "affinitylottery.org.uk",
         "barsy.co.uk",
         "barsy.uk",
         "barsyonline.co.uk",
@@ -8128,9 +8135,11 @@
         "plc.uk",
         "police.uk",
         "pymnt.uk",
+        "raffleentry.org.uk",
         "sch.uk",
         "service.gov.uk",
         "vm.bytemark.co.uk",
+        "weeklylottery.org.uk",
         "wellbeingzone.co.uk"
     ],
     "us": [
