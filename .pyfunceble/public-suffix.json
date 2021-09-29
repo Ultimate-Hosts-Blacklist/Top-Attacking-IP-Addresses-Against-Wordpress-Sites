@@ -1871,7 +1871,8 @@
     ],
     "goog": [
         "cloud.goog",
-        "translate.goog"
+        "translate.goog",
+        "usercontent.goog"
     ],
     "gp": [
         "app.gp",
@@ -4307,7 +4308,6 @@
         "uenohara.yamanashi.jp",
         "uji.kyoto.jp",
         "ujiie.tochigi.jp",
-        "ujitawara.kyoto.jp",
         "uki.kumamoto.jp",
         "ukiha.fukuoka.jp",
         "umaji.kochi.jp",
@@ -5635,7 +5635,6 @@
         "cdn77-ssl.net",
         "centralus.azurestaticapps.net",
         "channelsdvr.net",
-        "clic2000.net",
         "clickrising.net",
         "cloudaccess.net",
         "cloudapp.net",
@@ -5941,7 +5940,6 @@
         "budejju.no",
         "bygland.no",
         "bykle.no",
-        "báhcavuotna.no",
         "báhccavuotna.no",
         "báidár.no",
         "bájddar.no",
@@ -6532,6 +6530,7 @@
         "tysvar.no",
         "tysvær.no",
         "tønsberg.no",
+        "ujitawara.kyoto.jp",
         "ullensaker.no",
         "ullensvang.no",
         "ulvik.no",
@@ -7913,6 +7912,9 @@
         "oya.to",
         "rdv.to",
         "vpnplus.to"
+    ],
+    "today": [
+        "prequalifyme.today"
     ],
     "top": [
         "now-dns.top",
