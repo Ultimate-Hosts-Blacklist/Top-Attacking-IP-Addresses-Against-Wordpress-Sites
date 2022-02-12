@@ -163,6 +163,7 @@
     ],
     "app": [
         "a.run.app",
+        "beget.app",
         "bookonline.app",
         "clerk.app",
         "clerkstage.app",
@@ -223,6 +224,7 @@
         "biz.at",
         "blogspot.co.at",
         "co.at",
+        "enterprisecloud.nu",
         "ex.futurecms.at",
         "ex.ortsinfo.at",
         "futurecms.at",
@@ -1418,6 +1420,7 @@
         "uy.com",
         "vipsinaapp.com",
         "vs.mythic-beasts.com",
+        "vultrobjects.com",
         "wafflecell.com",
         "withgoogle.com",
         "withyoutube.com",
@@ -7567,7 +7570,6 @@
     "sb": [
         "com.sb",
         "edu.sb",
-        "gov.sb",
         "net.sb",
         "org.sb"
     ],
@@ -8521,6 +8523,10 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
+    ],
+    "xn--j6w193g": [
+        "gov.sb",
+        "xn--wcvs22d.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
