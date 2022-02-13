@@ -224,7 +224,6 @@
         "biz.at",
         "blogspot.co.at",
         "co.at",
-        "enterprisecloud.nu",
         "ex.futurecms.at",
         "ex.ortsinfo.at",
         "futurecms.at",
@@ -7570,6 +7569,7 @@
     "sb": [
         "com.sb",
         "edu.sb",
+        "gov.sb",
         "net.sb",
         "org.sb"
     ],
@@ -8523,10 +8523,6 @@
         "mypets.ws",
         "net.ws",
         "org.ws"
-    ],
-    "xn--j6w193g": [
-        "gov.sb",
-        "xn--wcvs22d.xn--j6w193g"
     ],
     "xyz": [
         "blogsite.xyz",
