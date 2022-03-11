@@ -2246,8 +2246,7 @@
         "utwente.io",
         "vaporcloud.io",
         "virtualserver.io",
-        "webthings.io",
-        "wedeploy.io"
+        "webthings.io"
     ],
     "iq": [
         "com.iq",
@@ -6927,7 +6926,8 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "shacknet.nu"
+        "shacknet.nu",
+        "wedeploy.io"
     ],
     "nz": [
         "ac.nz",
