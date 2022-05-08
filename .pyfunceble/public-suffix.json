@@ -608,7 +608,6 @@
         "odo.br",
         "ong.br",
         "org.br",
-        "org.hk",
         "osasco.br",
         "pa.gov.br",
         "pa.leg.br",
@@ -1387,6 +1386,7 @@
         "s3.dualstack.eu-west-2.amazonaws.com",
         "s3.dualstack.eu-west-3.amazonaws.com",
         "s3.dualstack.sa-east-1.amazonaws.com",
+        "s3.dualstack.us-east-1.amazonaws.com",
         "s3.dualstack.us-east-2.amazonaws.com",
         "s3.eu-central-1.amazonaws.com",
         "s3.eu-west-2.amazonaws.com",
@@ -6011,7 +6011,6 @@
         "hosting-cluster.nl",
         "khplay.nl",
         "myspreadshop.nl",
-        "s3.dualstack.us-east-1.amazonaws.com",
         "transurl.nl"
     ],
     "no": [
