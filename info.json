@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2022-06-25T03:50:51.386475",
-    "end_epoch": 1656129051.386475,
+    "end_datetime": "2022-06-26T04:15:41.767789",
+    "end_epoch": 1656216941.767789,
     "issue_link": "https://github.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/issues/new",
     "link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
     "name": "Top-Attacking-IP-Addresses-Against-Wordpress-Sites",
