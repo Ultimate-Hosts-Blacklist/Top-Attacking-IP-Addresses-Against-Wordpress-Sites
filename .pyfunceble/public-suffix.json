@@ -1030,6 +1030,7 @@
         "cloud.nospamproxy.com",
         "cloudcontrolapp.com",
         "cloudcontrolled.com",
+        "cloudycluster.net",
         "cn.com",
         "cns.joyent.com",
         "co.com",
@@ -5842,7 +5843,6 @@
         "cloudfront.net",
         "cloudfunctions.net",
         "cloudjiffy.net",
-        "cloudycluster.net",
         "community-pro.net",
         "cryptonomic.net",
         "dattolocal.net",
@@ -5916,7 +5916,6 @@
         "map.fastlylb.net",
         "meinforum.net",
         "memset.net",
-        "moonscale.net",
         "mydatto.net",
         "mydissent.net",
         "myeffect.net",
@@ -6999,6 +6998,7 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
+        "moonscale.net",
         "shacknet.nu"
     ],
     "nz": [
