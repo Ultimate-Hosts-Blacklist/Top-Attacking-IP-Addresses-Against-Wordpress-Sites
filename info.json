@@ -1,19 +1,19 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2025-08-03T04:22:07.698548",
-    "end_epoch": 1754194927.698548,
+    "end_datetime": "2025-08-04T04:04:41.772928",
+    "end_epoch": 1754280281.772928,
     "issue_link": "https://github.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/issues/new",
     "link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
     "name": "Top-Attacking-IP-Addresses-Against-Wordpress-Sites",
-    "previous_end_datetime": "2025-08-02T09:37:26.975472",
-    "previous_end_epoch": 1754127446.975472,
-    "previous_start_datetime": "2025-08-02T09:36:39.971587",
-    "previous_start_epoch": 1754127399.971587,
+    "previous_end_datetime": "2025-08-03T04:22:07.698548",
+    "previous_end_epoch": 1754194927.698548,
+    "previous_start_datetime": "2025-08-03T04:11:37.236155",
+    "previous_start_epoch": 1754194297.236155,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/mitchellkrogza/Top-Attacking-IP-Addresses-Against-Wordpress-Sites/master/wordpress-attacking-ips.txt",
-    "start_datetime": "2025-08-03T04:11:37.236155",
-    "start_epoch": 1754194297.236155
+    "start_datetime": "2025-08-04T04:03:53.187553",
+    "start_epoch": 1754280233.187553
 }
